@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Equations Solver</string>
+    <string name="title_activity_eq">EqActivity</string>
+</resources>
